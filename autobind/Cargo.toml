@@ -1,0 +1,10 @@
+[package]
+
+name = "autobind"
+version = "0.0.1"
+authors = ["Andrew Dunham <andrew@du.nham.ca>"]
+
+[lib]
+name = "autobind"
+path = "src/lib.rs"
+plugin = true
